@@ -41,7 +41,7 @@ def hbnb_filters(the_id=None):
                            places=places,
                            users=users)
 @app.route('/')
-def hbnb_filters(the_id=None):
+def hbnb_filters1(the_id=None):
     """
     handles request to custom template with states, cities & amentities
     """
